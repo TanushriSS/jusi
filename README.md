@@ -1,2 +1,2 @@
-# jusi
+# JUSI
 devops
