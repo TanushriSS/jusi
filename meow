@@ -1,0 +1,6 @@
+cat index.html
+git add index.html
+git commit -m"added index.html"
+git status
+git remote add origin https://github.com/bgitindhu/pg1.git
+git push origin master
